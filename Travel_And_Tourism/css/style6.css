@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.header{
+
+	background: rgba(0,0,100,0.4);
+	height: 100vh;
+}
+
+.video-background{
+	position:absolute;
+	
+	
+}
+
+
+
+.welcome-msg{
+	position: relative;
+	text-align: center;
+	font-family: monospace;
+	color: #fff;
+	top: 150px
+}
+
+.welcome-msg h1{
+	font-size: 80px;
+	font-weight: 100;
+	letter-spacing: 5px;
+	margin-bottom: 30px;
+}
